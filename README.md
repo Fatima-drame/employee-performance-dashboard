@@ -9,6 +9,8 @@
 - [Data Preparation](#data-preparation)
 - [Analysis & KPIs](#analysis--kpis)
 - [Interactive Dashboard](#interactive-dashboard)
+- [Key Findings](#key-findings)
+- [Business Recommendations](#business-recommendations)
 
 ## Project Overview
 
